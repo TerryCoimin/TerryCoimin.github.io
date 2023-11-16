@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    Choose Your hurtzshirt
-    ![IMG_4369]
+    Choose Your hurtzshirt ![IMG_4369]
 
 <link rel="stylesheet" href="styles.css">
 </head>
