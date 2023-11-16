@@ -12,7 +12,7 @@
         <h1>SocietyHurtz</h1>
     </header>
 
-    <nav>
+<nav>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
@@ -21,7 +21,6 @@
             <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
-
     <main>
         <p>Welcome to SocietyHurtz! Choose an option from the navigation menu.
         <a href="about.html">About Us</a>
@@ -43,7 +42,6 @@
     <header>
         <h1>SocietyHurtz</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -53,7 +51,6 @@
             <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
-
     <main>
         <h2>About SocietyHurtz</h2>
         <p>We are a unique clothing brand inspired by modern society. Choose an option to learn more.</p>
@@ -76,7 +73,6 @@
     <header>
         <h1>SocietyHurtz</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -86,7 +82,6 @@
             <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
-
     <main>
         <h2>Our Products</h2>
         <p>Explore our stylish and unique clothing items. Choose an option to view specific products.</p>
@@ -108,7 +103,6 @@
     <header>
         <h1>SocietyHurtz</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -118,7 +112,6 @@
             <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
-
     <main>
         <h2>Contact SocietyHurtz</h2>
         <p>Have questions or feedback? Contact us through the options below:</p>
@@ -143,7 +136,6 @@
     <header>
         <h1>SocietyHurtz</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
