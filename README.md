@@ -11,7 +11,6 @@
     <header>
         <h1>SocietyHurtz</h1>
     </header>
-
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
