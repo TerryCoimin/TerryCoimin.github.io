@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Choose Your hurtzshirt</title>
+    Choose Your hurtzshirt
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
