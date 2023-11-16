@@ -20,7 +20,6 @@
             <li><a href="gallery.html">Gallery</a></li>
         </ul>
     </nav>
-
     <main>
         <p>Welcome to SocietyHurtz! Choose an option from the navigation menu.</p>
     </main>
