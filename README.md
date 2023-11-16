@@ -13,7 +13,7 @@
     </header>
     <nav>
         <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Home</a></li> ![IMG_4369](https://github.com/TerryCoimin/TerryCoimin.github.io/assets/151046615/76de7a8b-020a-4d0b-a284-d12e1342c680)
             <li><a href="about.html">About</a></li>
             <li><a href="products.html">Products</a></li>
             <li><a href="contact.html">Contact</a></li>
