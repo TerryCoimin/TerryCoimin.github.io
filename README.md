@@ -48,11 +48,11 @@
         <p>In the kingdom of Ethan , a young princess named Klara is the last surviving member of the royal family. Her parents were killed in a coup led by the evil sorcerer, Malakario, who now rules the kingdom with an iron fist. Elara has been living in hiding for years, protected by a small group of loyalists who are determined to restore her to the throne.</p>
     </section>
 
-<section>
+ <section>
         <h2>Comic Page</h2>
         <body>
-        <img src="download (5).jpg" alt="Comic Page">
-    <width="300px"  height="200px">
+        <img src="Comic-Book-Template-3.jpg" alt="Comic Page">
+       <width="300px"  height="200px">
     </section>
 
   <footer>
