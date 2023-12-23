@@ -52,7 +52,7 @@
         <h2>Comic Page</h2>
         <body>
         <img src="download (5).jpg" alt="Comic Page">
-       <width="300px"  height="200px">
+    <width="300px"  height="200px">
     </section>
 
   <footer>
