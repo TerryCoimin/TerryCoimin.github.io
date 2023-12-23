@@ -52,7 +52,7 @@
  <section>
         <h2>Comic Page</h2>
         <body>
-        <img src="file:///C:/Users/TreSZN/Desktop/finalproject/Comic-Book-Template-3.jpg" alt="Comic Page">
+        <img src="download (5).jpg" alt="Comic Page">
     </section>
 
   <footer>
