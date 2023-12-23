@@ -44,18 +44,18 @@
         <p>Welcome to the exciting world of Ethan,a MAGICAL place!</p>
     </header>
 
-    <section>
+ <section>
         <h2>About the Comic</h2>
         <p>In the kingdom of Ethan , a young princess named Klara is the last surviving member of the royal family. Her parents were killed in a coup led by the evil sorcerer, Malakario, who now rules the kingdom with an iron fist. Elara has been living in hiding for years, protected by a small group of loyalists who are determined to restore her to the throne.</p>
     </section>
 
-    <section>
+ <section>
         <h2>Comic Page</h2>
         <!-- Replace "page1.jpg" with the actual file name of your comic page -->
         <img src="file:///C:/Users/TreSZN/Desktop/finalproject/Comic-Book-Template-3.png" alt="Comic Page">
     </section>
 
-    <footer>
+  <footer>
         <p>&copy; 2023 Your Comic Title. All rights reserved.</p>
     </footer>
 </body>
