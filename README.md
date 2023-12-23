@@ -51,7 +51,7 @@
 
  <section>
         <h2>Comic Page</h2>
-        <!-- Replace "page1.jpg" with the actual file name of your comic page -->
+        <body>
         <img src="file:///C:/Users/TreSZN/Desktop/finalproject/Comic-Book-Template-3.jpg" alt="Comic Page">
     </section>
 
